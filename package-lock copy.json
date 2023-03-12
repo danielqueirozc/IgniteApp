@@ -1,11 +1,11 @@
 {
-  "name": "igniteapp",
+  "name": "ts-igniteapp",
   "version": "0.0.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "igniteapp",
+      "name": "ts-igniteapp",
       "version": "0.0.0",
       "dependencies": {
         "date-fns": "^2.29.3",
