@@ -17,7 +17,7 @@ const posts = [
 
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
+      { type: 'paragraph', content: 'acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
       { type: 'Link', content: '👉 jane.design/doctorcare' },
     ],
     publishedAt: new Date('2023-01-28 17:00:00')

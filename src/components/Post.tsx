@@ -26,12 +26,11 @@ interface PostProps {
 
 export function Post ({ author, publishedAt, content }: PostProps) {
     const  [comments, setComments] = useState([
-        'ficou pica dmsss!!'
+        'ficou bom dmsss!!'
     ])
 
     const [newCommentText, setNewCommentText] = useState('')
 
-    console.log(newCommentText)
 
     const publishedDateFormatted = format(publishedAt, "d 'de' LLLL 'às' HH:mm'h'", {
         locale: ptBR
