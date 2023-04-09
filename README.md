@@ -8,7 +8,7 @@
 
 </p>
 
-![Preview](:https://vercel.com/bf2dfbd8-9d8a-44ba-85b5-1c1f86bbda07)
+![Preview] :https://vercel.com/bf2dfbd8-9d8a-44ba-85b5-1c1f86bbda07
 
 ## 💻 Sobre:
 
