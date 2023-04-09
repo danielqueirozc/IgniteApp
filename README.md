@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"> IgniteApp </a>
+    <a href="#"> Ignite-app </a>
 </h1>
 
 <h4 align="center"> 
@@ -8,7 +8,6 @@
 
 </p>
 
-![Preview]()
 
 ## 💻 Sobre:
 
