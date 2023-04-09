@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"> Ignite-app </a>
+    <a href="#"> IgniteApp </a>
 </h1>
 
 <h4 align="center"> 
