@@ -19,7 +19,6 @@ Neste desafio foram abordados os seguintes temas:
 - Props;
 - SPA
 ---
-## 🎨 Layout
 
 ## 🛠 Tecnologias
 
